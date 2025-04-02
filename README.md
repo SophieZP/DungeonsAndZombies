@@ -38,4 +38,4 @@
 1. **Clonar el repositorio**:
    
    ```bash
-   git clone https://github.com/tu-usuario/zombiedodge.git
+   git clone https://github.com/SophieZP/DungeonsAndZombies.git
