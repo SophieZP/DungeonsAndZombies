@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Zombie
+comment1.params=
+comment1.target=Zombie()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=attracted\ x\ y
+comment3.target=void\ setAttracted(boolean,\ int,\ int)
+comment4.params=
+comment4.target=void\ moveZombie()
+comment5.params=
+comment5.target=void\ checkCollision()
+numComments=6
