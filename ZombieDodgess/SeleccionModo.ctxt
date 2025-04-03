@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SeleccionModo
+comment1.params=tipo
+comment1.target=SeleccionModo(java.lang.String)
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ act()
+numComments=4

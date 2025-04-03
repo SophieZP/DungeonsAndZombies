@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Personaje
+comment1.params=cantidad
+comment1.target=void\ recibirDano(int)
+comment2.params=tipo
+comment2.target=void\ curar(java.lang.String)
+comment3.params=
+comment3.target=void\ verificarInfeccion()
+comment4.params=
+comment4.target=void\ convertirEnZombie()
+comment5.params=
+comment5.target=void\ morir()
+numComments=6
